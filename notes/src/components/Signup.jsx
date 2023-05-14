@@ -7,7 +7,7 @@ const Signup = () => {
   const [password, setPassword] = useState("");
 
   const submitHandler = () => {
-    console.warn(name,email,password);
+    console.warn(name, email, password);
   };
 
   return (

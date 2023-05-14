@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.nav-ul {
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+  background-color: bisque;
+}
+
+.nav-ul li {
+  list-style: none;
+  padding: 10px;
+}
