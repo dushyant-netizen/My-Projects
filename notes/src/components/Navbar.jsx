@@ -2,6 +2,11 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 const Navbar = () => {
+
+// TO CHECK IF USER IS LOGGED IN OR NOT
+
+
+
   return (
     <>
       <ul className="nav-ul">

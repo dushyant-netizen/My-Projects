@@ -35,7 +35,7 @@ const Signup = () => {
           onChange={(e) => setPassword(e.target.value)}
           required
         />
-        <button onClick={submitHandler}>Signup</button>
+        <button  className="btn" onClick={submitHandler}>Signup</button>
       </form>
     </>
   );

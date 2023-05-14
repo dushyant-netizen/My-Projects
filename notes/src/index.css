@@ -14,3 +14,10 @@
   list-style: none;
   padding: 10px;
 }
+
+.btn{
+    padding: 3px;
+    margin: 5px;
+    width: 100px;
+    cursor: pointer;
+}

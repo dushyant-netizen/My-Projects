@@ -25,7 +25,7 @@ const Login = () => {
           value={password}
           onChange={(e) => setPassword(e.target.value)}
         />
-        <button onClick={submitHandler}>Login</button>
+        <button  className="btn"  onClick={submitHandler}>Login</button>
       </form>
     </>
   );
