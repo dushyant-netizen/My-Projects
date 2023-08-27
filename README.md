@@ -1,2 +1,3 @@
 # My-Projects
-This the best place to save and  manage my future projects
+checkout my amazon clone app here :
+https://www.codingnepalweb.com/demos/create-amazon-website-clone-html-css/
